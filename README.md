@@ -1,7 +1,7 @@
 # ContoliNoise_sources 3d texture as 2d sprites + tga
  check my profile for tgalib.. may need to self merge..
 
-FOR : https://www.moddb.com/mods/crimewars & https://intmain.xyz & ra4 LY project!
+FOR : https://www.moddb.com/mods/crimewars & https://intmain.xyz & ra4 LY project! http://redalert3trolls.000webhostapp.com/
 
 3d textures... or clouds or sprites or generators + 2d spirtes with shader ro without?
 

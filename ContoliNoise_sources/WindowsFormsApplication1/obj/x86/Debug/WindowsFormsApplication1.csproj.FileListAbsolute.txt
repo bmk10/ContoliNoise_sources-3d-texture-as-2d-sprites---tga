@@ -1,0 +1,24 @@
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\contoli.DM\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Andrea_1\c#\perlin\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Andrea_1\c#\perlin\ContoliNoise_sources\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
